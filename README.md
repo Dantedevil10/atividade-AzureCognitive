@@ -1,6 +1,6 @@
 # Pesquisa Cognitiva no Azure
 
-Este repositório documenta o processo de configuração e exploração de Pesquisa Cognitiva no Azure. A atividade tem como objetivo compreender como essa tecnologia pode ser utilizada para extrair informações valiosas a partir de grandes volumes de dados.
+Este repositório documenta o processo de configuração e exploração de Pesquisa Cognitiva no Azure. Que tem como objetivo compreender como essa tecnologia pode ser utilizada para extrair informações valiosas a partir de grandes volumes de dados.
 
 ## Passo a Passo para Configurar uma Pesquisa Cognitiva no Azure
 
@@ -10,11 +10,7 @@ Este repositório documenta o processo de configuração e exploração de Pesqu
 3. Defina o SKU conforme a necessidade do projeto (*Free*, *Basic* ou *Standard*).
 
 ### Adicionar uma Origem de Dados
-Conecte a pesquisa a uma fonte de dados como:
-- Banco de Dados SQL do Azure
-- Blob Storage
-- Cosmos DB
-- SharePoint
+Conecte a pesquisa a uma fonte de dados.
 
 Configure as credenciais de acesso.
 
